@@ -26,7 +26,8 @@ This is a simple Flask-based web application that predicts **medical insurance c
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/insurance-prediction-app.git
+git clone https://github.com/khushi-0-1/insurance-prediction.git
+
 cd insurance-prediction-app
 
 ### 2. Install Dependencies
