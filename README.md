@@ -37,7 +37,7 @@ pip install flask pandas scikit-learn
 python app.py
 
 
-###💡 Model Info
+## 🚀 Model Info 
 
 Algorithm: Linear Regression
 
