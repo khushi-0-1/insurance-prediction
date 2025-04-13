@@ -29,21 +29,12 @@ This is a simple Flask-based web application that predicts **medical insurance c
 git clone https://github.com/yourusername/insurance-prediction-app.git
 cd insurance-prediction-app
 
-2. Install Dependencies
+### 2. Install Dependencies
 pip install flask pandas scikit-learn
 
-3. Run the App
+### 3. Run the App
 python app.py
 
-📁 Project Structure
-insurance-prediction-app/
-│
-├── app.py                 # Main Flask application
-├── insurance.csv          # Dataset
-├── templates/
-│   ├── index.html         # Input form
-│   └── result.html        # Prediction result
-├── README.md              # This file
 
 💡 Model Info
 Algorithm: Linear Regression
